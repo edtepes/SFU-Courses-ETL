@@ -1,6 +1,7 @@
 # SFUCourse-ETL-Pipeline
 
 Language: Python3
+
 Libaries: Chromedriver, Selenium, BeautifulSoup4, 
 
  The purpose of this open source, self-directed project is to gain better understanding of SFU course data through the following process:
