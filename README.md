@@ -1,5 +1,7 @@
 # SFUCourse-ETL-Pipeline
 
+Language: Python3
+
  The purpose of this open source, self-directed project is to gain better understanding of SFU course data through the following process:
  1. EXTRACT SFU course data from Course Diggers using the Selenium library, 
  2. TRANSFORM the data using the Pandas library, and eventually 
